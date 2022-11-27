@@ -1,12 +1,11 @@
 ## Olá! Eu sou Ayrton 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyrtonRogerio&count_private=true&show_icons=true&theme=radical"/>
-  <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonRogerio&count_private=true&theme=radical"/> --->
- </div> 
-<!---![Ayrton GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonRogerio&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonRogerio&count_private=true&theme=radical)](https://github.com/AyrtonRogerio/github-readme-stats)
---->
+<div align="center">
+  <a href="https://github.com/AyrtonRogerio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyrtonRogerio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonRogerio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 <!---
 - 👋 Hi, I’m @AyrtonRogerio
